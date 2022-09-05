@@ -1,6 +1,12 @@
 body {
     background-color: rgb(18, 18, 20);
     color: rgb(106, 255, 118);
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 .typing-demo {
     width:30ch;
